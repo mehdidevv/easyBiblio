@@ -1,3 +1,6 @@
+<h1> easyBiblio </h1>
+<p> une application qui permet la gestion d'une bibliothèque.</p>
+
 <h1> How to use </h1>
 <hr />
 <ul>
@@ -8,5 +11,5 @@
     <li> Run npm install </li>
     <li> Run npm run dev </li>
     <li>That's it: launch the main URL</li>
-    <li> you can create a new user for testing or use the user already created ( email: easybook@example.com , password: 123 )<li>
+    <li> you can create a new user for testing or use the user already created ( email: easybook@example.com , password: 123 )</li>
 </ul>
