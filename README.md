@@ -7,7 +7,7 @@
     <li> Clone the repository with git clone </li>
     <li> Create your database and edit database credentials in the file .env </li>
     <li> Run composer install </li>
-    <li> Run php artisan migrate --seed (it has some seeded data for your testing a user will be created with random reservations) </li>
+    <li> Run php artisan migrate --seed (it has some seeded data for your testing, a user will be created with random reservations) </li>
     <li> Run npm install </li>
     <li> Run npm run dev </li>
     <li>That's it: launch the main URL</li>
